@@ -1,5 +1,6 @@
-### Hi there 👋, Im [Nguyen](https://www.facebook.com/pham.sonnguyen)
+### Hi there 👋, Im [Nguyen](https://www.facebook.com/pham.sonnguyen)!
 
+Greetings, I am Nguyen Pham, a hard-working Web and App Developer currently in studying in Canada.
 <!--
 **Xpinpin/Xpinpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying in New Brunswick Community College (Moncton Campus)
+- 🌱 I’m currently learning in Web and Mobile Application Development Major (2019 - 2021)
+- 📫 How to reach me: sonnguyenpham@gmail.com
+- ⚡ Fun fact: + I love playing the piano and playing basketball.
+               + My nationality is Vietnam.
