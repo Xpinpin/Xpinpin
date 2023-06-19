@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently studying in New Brunswick Community College (Moncton Campus)
-- 🌱 I’m currently learning Web and Mobile Application Development Major (2019 - 2021)
+- 🔭 I’m currently working as a Consultant at Pinnacle OA (Moncton)
+- 🌱 I have finished learning Web and Mobile Application Development Major (2019 - 2021)
 - 📫 How to reach me: sonnguyenpham@gmail.com
 - ⚡ Fun fact: I love playing the piano and playing basketball.
               
